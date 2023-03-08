@@ -18,8 +18,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Django](https://img.shields.io/badge/-Django-000?logo=Django)
-![Tkinter](https://img.shields.io/badge/-Tkinter-000?logo=Tkinter)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?logo=Flutter)
+
 ### Full Stack Projects
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
